@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vvicorn"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wrap uvicorn's logging with ulogcorn"
 authors = ["尼维沙纳默帝敖 <icocoabeans@gmail.com>"]
 
