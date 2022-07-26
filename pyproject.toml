@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "vvicorn"
-version = "0.1.2"
-description = "Wrap uvicorn's logging with ulogcorn"
-authors = ["尼维沙纳默帝敖 <icocoabeans@gmail.com>"]
+version = "0.1.3"
+description = "Uvicorn's logging wrapped with ulogcorn"
+authors = ["Joy <icocoabeans@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-ulogcorn = "^0.4.1"
+python = "^3.7"
+ulogcorn = "^0.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
